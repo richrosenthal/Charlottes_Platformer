@@ -1,0 +1,11 @@
+build/
+*.asm
+*.ihx
+*.lk
+*.lst
+*.map
+*.noi
+*.o
+*.rel
+*.sym
+
